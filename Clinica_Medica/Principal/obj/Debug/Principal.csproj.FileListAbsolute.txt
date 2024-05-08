@@ -1,0 +1,13 @@
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\bin\Debug\Principal.exe.config
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\bin\Debug\Principal.exe
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\bin\Debug\Principal.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\obj\Debug\Principal.csproj.AssemblyReference.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\obj\Debug\Principal.csproj.GenerateResource.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\obj\Debug\Principal.exe
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\obj\Debug\Principal.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\obj\Debug\Principal.Principal.resources
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\bin\Debug\General.dll
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\bin\Debug\General.pdb
+C:\Users\ccerr\Documents\VISUAL ESTUDIO\Clinica_Medica\Principal\obj\Debug\Principal.csproj.CopyComplete
