@@ -19,7 +19,7 @@ namespace DataLayer
             Boolean Resultado = false;
             try
             {
-                _CONEXION.ConnectionString = "Server=localhost;Port = 3306;Database=   ;Uid =root; Pwd = 1234;SSL Mode = None";
+                _CONEXION.ConnectionString = "Server=localhost;Port = 3306;Database=Clinica_Medica;Uid = root; Pwd = 1234;SSL Mode = None";
                 _CONEXION.Open();
                 Resultado = true;
             }
